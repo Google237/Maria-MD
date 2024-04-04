@@ -8,7 +8,7 @@ global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
 global.location = "Cameroonian"
 
-global.botname = 'Friends S.B' //name of the bot
+global.botname = 'Maria-MD' //name of the bot
 
 //sticker details
 global.stickername = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
